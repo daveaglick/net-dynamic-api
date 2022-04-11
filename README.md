@@ -51,7 +51,7 @@ Heres another sample:
  }
 ```
 
-# Getting Started & Docoumentation
+# Getting Started & Documentation
 
 [https://www.tcdev.de/tcdev-api-generator-getting-started](https://www.tcdev.de/tcdev-api-generator-getting-started)
 
